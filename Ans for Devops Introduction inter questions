@@ -1,0 +1,42 @@
+1. What is SDLC AND how it runs?
+--> SDLC is the Software Development Life cycle.
+It is a process of planning, creating, testing, and deploying an application.
+SDLC has mainly two methodologies - 1. Waterfall methodology 2. Agile Methodologies
+
+2. What is waterfall methodology?
+--> Waterfall methodology has a one-way flow and works in only one flow.
+This process runs step by step.
+The duration of this process is 6 months till then client can not make any changes.
+We can not make any changes till the project/ the requirement is completed.
+It's not customer-oriented.
+This could affect business and may lead to loss.
+
+3. What is agile methodology?
+--> Agile methodology has been divided into small sprints.
+It has a workflow which is Requirement, Design, development, testing, deployment, and review.
+This is a client-oriented and updated methodology.
+All DevOps use Agile methodology.
+Keeps the project into integrated form.
+The approximate duration for this methodology is 8-10 months but with the latest requirements and updates.
+
+4. Why do we choose agile methodology over waterfall methodology?
+--> We prefer agile methodology over waterfall methodology because if there is any new requirement during development or any updates or any kind of changes from the client side it will not be able to be done in waterfall methodology whereas in agile practices because we are connected to the client on every path of the project.
+It will also help to reduce loss in business.
+
+5. How many types of environment are there?
+-->There are 5 types of environment -
+Development Environment
+Testing Environment
+UAT Environment- User Acceptance test
+Production Environment
+Pre-production environment.
+
+6. What is DevOps?
+--> DevOps is a product-making and software-making process.
+
+7. Why do we need DevOps in our projects?
+-->If there are any issues neither from developers nor from the operations team there comes DevOps who will create a new server for and solve the issue and make the workflow more easy and smooth and keep the project in integrated form.
+
+8. What does DevOps offer in our organisation?
+-->DevOps encourages faster, better, more secure delivery of business value to an organization's end customers.
+It runs the progressive workflow with client satisfaction.  
